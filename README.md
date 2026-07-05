@@ -312,21 +312,7 @@ The application is now ready to analyze UPI transactions.
 
 
 
-\# 📸 Screenshots
 
-
-
-You can add screenshots such as:
-
-
-
-\* Home Page
-
-\* Transaction Input Form
-
-\* Fraud Prediction Result
-
-\* Application Interface
 
 
 
